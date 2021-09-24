@@ -1,5 +1,6 @@
 All Geektrust challenges are meant to be solved offline.
 
+web-link: https://adminui.ccbp.tech/
 
 The challenge
 
