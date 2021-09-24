@@ -8,6 +8,8 @@ You work at a startup that is building an interface for admins to see and delete
 Note - this is for reference only. You don't need to build the exact same UI.
 
 
+![image](https://user-images.githubusercontent.com/87964177/134691842-48793d1c-4ac1-4495-9850-e0319498830c.png)
+
 
 These are the requirements:
 
